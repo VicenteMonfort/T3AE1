@@ -1,2 +1,6 @@
 Monfort
+<<<<<<< HEAD
 Cambios en user1
+=======
+Modificando Exercici 4
+>>>>>>> origin/master
